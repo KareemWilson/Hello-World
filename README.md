@@ -7,3 +7,11 @@
 - Html
 - CSS
 - Linters
+
+
+## Authors
+
+👤 **Author1**
+
+- GitHub: [KareemWilson](https://github.com/KareemWilson)
+- LinkedIn: [Kareem Wilson](https://www.linkedin.com/in/kareem-wilson/)
